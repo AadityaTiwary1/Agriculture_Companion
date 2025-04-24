@@ -408,7 +408,7 @@ class _WeatherSuggestionAppState extends State<WeatherSuggestionApp>
       suggestion = null;
     });
 
-    const String apiKey = "8d2de98e089f1c28e1a22fc19a24ef04";
+    const String apiKey = "YOUR_API_KEY";
     final String url =
         "https://api.openweathermap.org/data/2.5/forecast?q=$location&units=metric&appid=$apiKey";
 
