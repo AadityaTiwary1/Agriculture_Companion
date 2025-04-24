@@ -61,14 +61,6 @@ KrishiMitra is a comprehensive mobile application designed to assist farmers wit
 3. Ensure you have valid API keys for weather and AI services
 4. Run `flutter run` to launch the application
 
-## Development Team
-- Abhilipsa Sahoo - UI/UX Developer
-- Sumati Paliwal - Frontend Developer
-- Aaditya Tiwary - Backend Developer
-
-## Screenshots
-(Add screenshots of different app sections here)
-
 ## Future Enhancements
 - Offline mode for basic functionality
 - More regional languages
