@@ -76,5 +76,4 @@ KrishiMitra is a comprehensive mobile application designed to assist farmers wit
 - Community forum for farmers
 - Weather alerts and notifications
 
-## License
-(Add appropriate license information)
+
